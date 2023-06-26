@@ -21,7 +21,7 @@ const Contacto = () => {
       </Form.Group>
       
       <Button variant="primary" type="submit">
-        Submit
+        Enviar
       </Button>
     </Form>
     </div>
